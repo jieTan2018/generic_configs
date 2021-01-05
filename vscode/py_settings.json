@@ -1,0 +1,30 @@
+{
+    "python.pythonPath": "env/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "workbench.colorTheme": "Panda Syntax",
+    "workbench.editor.enablePreview": false,
+    // "editor.fontFamily": "Noto Mono",
+    "window.zoomLevel": 0,
+    "editor.fontLigatures": true,
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        [
+            "Orange",
+            "Orchid",
+            "LightSkyBlue"
+        ],
+        "Red"
+    ],
+    "files.exclude": {
+        ".vscode": true,
+        "**/__pycache__": true,
+        "env": true
+    },
+    "editor.mouseWheelZoom": true,
+    "python.formatting.autopep8Args": [
+        "--max-line-length=110"
+    ]
+}

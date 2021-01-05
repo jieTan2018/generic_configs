@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Panda Syntax",
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 0,
+    "editor.fontLigatures": true,
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        [
+            "Orange",
+            "Orchid",
+            "LightSkyBlue"
+        ],
+        "Red"
+    ],
+    "files.exclude": {
+        ".vscode": true,
+        "node_modules": true
+    },
+    "editor.mouseWheelZoom": true
+}
